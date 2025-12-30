@@ -54,6 +54,9 @@ The purpose of this project is to simulate a real-world banking analytics scenar
 
 5.Self-learning and project ownership.
 
+# Dashboard Screenshot
+[Excel Dashboard] 
+
 
 
 
